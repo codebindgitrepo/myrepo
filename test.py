@@ -1,1 +1,1 @@
-echo "hello"
+print {"hello !! V3"}
